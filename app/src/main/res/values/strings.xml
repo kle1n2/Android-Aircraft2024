@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="choose">单机模式难度选择</string>
+    <string name="easy">简单模式</string>
+    <string name="medium">正常模式</string>
+    <string name="hard">困难模式</string>
+    <string name="offline">单机模式</string>
+    <string name="onlineEnd">游戏结束</string>
+    <string name="yourScore">你的分数：</string>
+    <string name="opponentScore">对手分数：</string>
+</resources>
